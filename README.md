@@ -48,14 +48,14 @@ I help enterprises **design, validate, and deliver** secure infrastructure solut
 
 | Repository | Description | Stack |
 |------------|-------------|-------|
-| [LECTURES-SMTI](https://github.com/febriyansyah-id/LECTURES-SMTI) | Semester I — Algoritma, Modeling & Optimizer, Sistem Komputer & Jaringan | `Private` |
-| [LECTURES-SMTII](https://github.com/febriyansyah-id/LECTURES-SMTII) | Semester II — Metode Penelitian, Statistic & Data Analysis, Audit TI | `Private` |
-| [LECTURES-SMTIII](https://github.com/febriyansyah-id/LECTURES-SMTIII) | Semester III — Advanced CV, NLP, Big Data & Visualization | `Private` |
 | [SECURITY-WORKSPACE](https://github.com/febriyansyah-id/SECURITY-WORKSPACE) | Cybersecurity labs — SOC, phishing, fraud detection | `Security` |
 | [AI-WORKSPACE](https://github.com/febriyansyah-id/AI-WORKSPACE) | AI/ML experiments — threat intel, malware, RAG | `AI/ML` |
 | [INFRA-WORKSPACE](https://github.com/febriyansyah-id/INFRA-WORKSPACE) | Infrastructure automation & architecture | `Infra` |
+| [HUGGINGFACE-WORKSPACE](https://github.com/febriyansyah-id/HUGGINGFACE-WORKSPACE) | Hugging Face — models, datasets, spaces | `AI/ML` |
+| [KAGGLE-WORKSPACE](https://github.com/febriyansyah-id/KAGGLE-WORKSPACE) | Kaggle competitions & notebooks | `Data` |
+| [COLLAB-WORKSPACE](https://github.com/febriyansyah-id/COLLAB-WORKSPACE) | Collaborative projects & research | `Collab` |
 
-> 📌 *Pin these 6 repos on your GitHub profile for maximum impact.*
+> 📌 *Pin these 6 public repos on your GitHub profile for maximum impact. Private lecture repos (LECTURES-SMTI/SMTII/SMTIII) are not pinned — visible only to you.*
 
 ---
 
