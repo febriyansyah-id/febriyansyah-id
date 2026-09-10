@@ -78,7 +78,7 @@ I help enterprises **design, validate, and deliver** secure infrastructure solut
 - **GitHub:** [@febriyansyah-id](https://github.com/febriyansyah-id)
 - **Email:** `febriyansyah.research@gmail.com`
 - **Location:** Indonesia — Banking & Financial Services
-- **LinkedIn:** *Add your LinkedIn URL here*
+- **LinkedIn:** [linkedin.com/in/febriyansyah-id](https://www.linkedin.com/in/febriyansyah-id/)
 
 ---
 
