@@ -1,8 +1,8 @@
 # FEBRIYANSYAH
 
-### Presales Consultant — IT Infrastructure & Cybersecurity | MTI Candidate
+### Presales Consultant — IT Infrastructure & Cybersecurity | MTI Data Science Candidate
 
-> **Trusted Advisor for Enterprise IT Solutions** — Bridging business needs with secure, scalable technology.
+> **Trusted Advisor for Enterprise IT Solutions** — Bridging business needs with secure, data-driven technology.
 
 [![Profile](https://img.shields.io/badge/Profile-febriyansyah--id-0A66C2?style=flat&logo=github)](https://github.com/febriyansyah-id)
 [![Location](https://img.shields.io/badge/Indonesia-Jakarta-FF0000?style=flat&logo=googlemaps)](https://github.com/febriyansyah-id)
@@ -13,11 +13,11 @@
 
 ## 👤 About Me
 
-IT Professional with extensive experience in **Banking & Financial Services**, specializing in **Presales Consulting**, **IT Infrastructure**, and **Cybersecurity**. Currently pursuing **Magister Teknik Informatika (MTI)** at Universitas Pamulang, focusing on **AI/ML for Threat Intelligence & GRC Automation**.
+IT Professional with extensive experience in **Banking & Financial Services**, specializing in **Presales Consulting**, **IT Infrastructure**, **Cybersecurity**, and **Data Science**. Currently pursuing **Magister Teknik Informatika (MTI) — Data Science** at Universitas Pamulang, focusing on **AI/ML for Threat Intelligence, Data Analysis & GRC Automation**.
 
-I help enterprises **design, validate, and deliver** secure infrastructure solutions — from architecture and PoC to deployment and governance.
+I help enterprises **design, validate, and deliver** secure, data-driven solutions — from architecture and PoC to deployment and governance.
 
-**Core Value:** *Translate complex technology into business outcomes.*
+**Core Value:** *Translate complex technology and data into business outcomes.*
 
 ---
 
@@ -28,7 +28,7 @@ I help enterprises **design, validate, and deliver** secure infrastructure solut
 | **Presales & Solutions** | Solution Architecture, Technical Proposal, PoC/Pilot, RFP Response, Customer Workshop, Competitive Analysis |
 | **Infrastructure** | Data Center, Virtualization, Cloud (Hybrid), Network Architecture, High Availability, Disaster Recovery |
 | **Cybersecurity** | Threat Intelligence, SOC, GRC, Vulnerability Management, Security Architecture, Compliance |
-| **AI / ML** | Threat Detection, Anomaly Detection, Automation for SOC & GRC, Data Analysis |
+| **Data Science & AI / ML** | Threat Detection, Anomaly Detection, Predictive Analytics, Data Analysis, Automation for SOC & GRC |
 
 ---
 
@@ -61,8 +61,8 @@ I help enterprises **design, validate, and deliver** secure infrastructure solut
 
 ## 🎓 Education
 
-**Magister Teknik Informatika (MTI)** — Universitas Pamulang, Pascasarjana
-*Focus: AI/ML for Threat Intelligence & GRC Automation*
+**Magister Teknik Informatika (MTI) — Data Science** — Universitas Pamulang, Pascasarjana
+*Focus: AI/ML for Threat Intelligence, Data Analysis & GRC Automation*
 
 ---
 
